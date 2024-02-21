@@ -37,7 +37,7 @@
         <!-- dependency versions a..z -->
         <apiguardian-api.version>1.0.0</apiguardian-api.version>
         <assertj.version>3.16.1</assertj.version>
-        <commons-compress.version>1.21</commons-compress.version>
+        <commons-compress.version>1.26.0</commons-compress.version>
         <graalvm.version>21.3.0</graalvm.version>
         <graalvm.plugin.version>21.2.0</graalvm.plugin.version>
         <groovy.version>3.0.9</groovy.version>
